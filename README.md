@@ -1,1 +1,1 @@
-# ams2
+# ams - Automoatic Air Conditioning management
