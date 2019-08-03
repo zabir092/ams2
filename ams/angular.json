@@ -137,5 +137,10 @@
       }
     }
   },
-  "defaultProject": "ams"
+  "defaultProject": "ams",
+  "schematics": {
+    "@schematics/angular:component": {
+      "styleext": "scss"
+    }
+  }
 }
